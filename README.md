@@ -1,1 +1,7 @@
-text=Halo%20admin%20atg.one/cyberteam%2C%20saya%20ada%20kendala%20saat%20pendaftaran.%20Mohon%20dibantu
+# Website Avanturista
+Avanturista adalah website tentang traveling untuk memudahkan pengguna dalam berwisata dengan memiliki paket tempat wisata. Website ini dibuat untuk memenuhi tugas Ujian Akhir Semester (UAS) Mata Kuliah Pemrograman Aplikasi Web, Program Studi Informatika, Universitas Atma Jaya Yogyakarta.
+
+Aplikasi website ini dibuat oleh:
+- Yosafat Angga Gilang P. / 190710300
+- Rufina Truly Aning Christy / 190710135
+- Giordano Pramodana Ladeka / 190710091
