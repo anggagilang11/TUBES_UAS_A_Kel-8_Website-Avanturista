@@ -1,0 +1,68 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 28/04/2020 08:23
+  	*/
+	
+	@font-face {
+	    font-family: "Flaticon";
+	    src: url("Flaticon.eot");
+	    src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"), url("Flaticon.woff2") format("woff2"), url("Flaticon.woff") format("woff"), url("Flaticon.ttf") format("truetype"), url("Flaticon.svg#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+	
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "Flaticon";
+	        src: url("Flaticon.svg#Flaticon") format("svg");
+	    }
+	}
+	
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	    font-family: Flaticon;
+	    font-size: 20px;
+	    font-style: normal;
+	}
+	
+	.flaticon-aeroplane:before {
+	    content: "\f100";
+	}
+	
+	.flaticon-group:before {
+	    content: "\f101";
+	}
+	
+	.flaticon-search:before {
+	    content: "\f102";
+	}
+	
+	.flaticon-booking:before {
+	    content: "\f103";
+	}
+	
+	.flaticon-telephone:before {
+	    content: "\f104";
+	    color: #fff;
+	    font-size: 45px;
+	    line-height: 54px;
+	}
+	
+	.flaticon-quotation:before {
+	    content: "\f105";
+	    color: #ff9d34;
+	    font-size: 52px;
+	    position: relative;
+	    left: 133px;
+	    z-index: 1;
+	    top: 21px;
+	}
+	
+	.flaticon-paper-plane:before {
+	    content: "\f106";
+	    color: #fff;
+	    font-size: 45px;
+	    line-height: 54px;
+	}
